@@ -1,3 +1,7 @@
+Hi there 👋 I am Burkhan Programmer,
+Im Fdontend Developer
+
+
 <h1>MY SKILLS</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
