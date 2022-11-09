@@ -1,5 +1,5 @@
-Hi there 👋 I am Burkhan Programmer,
-Im Fdontend Developer
+👋 Hi I am Burkhan Programmer,Frontend Developer.
+
 
 
 <h1>MY SKILLS</h1>
