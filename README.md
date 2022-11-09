@@ -11,7 +11,7 @@
 
 
 
-![Nishonboyev Burxon](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Nishonboyev Burxon](https://github-readme-stats.vercel.app/api?username=burxon&show_icons=true&theme=radical)
 [![Burxon Nishonboyev](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
