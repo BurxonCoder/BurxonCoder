@@ -15,7 +15,7 @@
 
 
 
-![Nishonboyev Burxon](https://github-readme-stats.vercel.app/api?username=burxon&show_icons=true&theme=synthwave)
+![Nishonboyev Burxon](https://github-readme-stats.vercel.app/api?username=burxoncoder&show_icons=true&theme=synthwave)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=burxoncoder&hide=js,html_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)!
 
