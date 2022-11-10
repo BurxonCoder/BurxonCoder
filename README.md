@@ -1,4 +1,4 @@
-<h2>👋 Hi I am Burkhan Programmer,Frontend Developer.</h2>
+<h1>👋 Hi I am Burkhan Programmer,Frontend Developer.</h1>
 
 
 
