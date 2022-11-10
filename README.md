@@ -9,7 +9,7 @@
 
 <h1>MY TOOLS</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,codepen,discord,netlify,powershell,github,stackoverflow,twitter,vscode,visualstudio,figma,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,codepen,discord,netlify,mui,powershell,github,stackoverflow,twitter,vscode,visualstudio,figma,vercel)](https://skillicons.dev)
 
 
 
