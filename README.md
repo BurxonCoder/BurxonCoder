@@ -5,7 +5,7 @@
 <h1>MY SKILLS</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,bootstrap,mui,tailwind,react,github,nextjs,redux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sass,bootstrap,mui,tailwind,react,angular,github,nextjs,redux&theme=light)](https://skillicons.dev)
 
 <h1>MY TOOLS</h1>
 
